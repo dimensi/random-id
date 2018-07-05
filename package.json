@@ -4,7 +4,7 @@
   "module": "dist/random-id.es.js",
   "unpkg": "dist/random-id.iife.min.js",
   "jsdelivr": "dist/random-id.iife.min.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "build": "bili",
