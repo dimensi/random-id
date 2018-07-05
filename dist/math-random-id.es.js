@@ -1,5 +1,5 @@
 /*!
- * random-id v1.0.0
+ * math-random-id v1.0.1
  * (c) 2018-present Nikita Nafranets <eddimensi@gmail.com>
  * Released under the MIT License.
  */
