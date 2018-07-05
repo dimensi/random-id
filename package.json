@@ -1,0 +1,38 @@
+{
+  "name": "random-id",
+  "main": "dist/random-id.js",
+  "module": "dist/random-id.es.js",
+  "unpkg": "dist/random-id.iife.min.js",
+  "jsdelivr": "dist/random-id.iife.min.js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "bili",
+    "test": "tyu",
+    "test:vscode-jest": "tyu --",
+    "test:watch": "tyu -- --watch",
+    "release": "standard-version"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "random id"
+  ],
+  "author": {
+    "name": "Nikita Nafranets",
+    "email": "eddimensi@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bili": "^3.1.2",
+    "eslint": "^5.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "rollup-plugin-clear": "^2.0.7",
+    "standard-version": "^4.4.0"
+  }
+}
