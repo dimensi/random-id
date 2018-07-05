@@ -19,6 +19,13 @@
   "keywords": [
     "random id"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimensi/random-id.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dimensi/random-id/issues"
+  },
   "author": {
     "name": "Nikita Nafranets",
     "email": "eddimensi@gmail.com"
