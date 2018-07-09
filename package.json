@@ -1,9 +1,9 @@
 {
   "name": "math-random-id",
-  "main": "dist/random-id.js",
-  "module": "dist/random-id.es.js",
-  "unpkg": "dist/random-id.iife.min.js",
-  "jsdelivr": "dist/random-id.iife.min.js",
+  "main": "dist/math-random-id.js",
+  "module": "dist/math-random-id.es.js",
+  "unpkg": "dist/math-random-id.iife.min.js",
+  "jsdelivr": "dist/math-random-id.iife.min.js",
   "version": "1.0.4",
   "description": "",
   "scripts": {
