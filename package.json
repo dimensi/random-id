@@ -4,7 +4,7 @@
   "module": "dist/math-random-id.es.js",
   "unpkg": "dist/math-random-id.iife.min.js",
   "jsdelivr": "dist/math-random-id.iife.min.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "scripts": {
     "build": "bili",
