@@ -1,11 +1,10 @@
-module.exports = {
-  format: ['umd', 'es', 'iife-min'],
-  banner: true,
-  moduleName: 'randomID',
-  plugin: [
-    require('rollup-plugin-clear')({
-      targets: ['./dist/']
-    })
-  ],
-  exports: 'named'
+/** @type {import('bili').Config} */
+const config = {
+  babel: true,
+  output: {
+    format: ['cjs', 'es', 'iife-min'],
+    moduleName: 'randomID',
+  },
 }
+
+export default config
