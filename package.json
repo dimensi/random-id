@@ -4,7 +4,7 @@
   "module": "dist/index.mjs",
   "unpkg": "dist/index.iife.min.js",
   "jsdelivr": "dist/index.iife.min.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "scripts": {
     "build": "del ./dist && bili",
